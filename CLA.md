@@ -2,15 +2,15 @@
 
 Version 1.0
 
-Name: `$name`
+Name: `SAID RAHAL`
 
-E-Mail: `$email`
+E-Mail: `hola@saidrahal.com`
 
 Legal Jurisdiction: Wyoming, United States of America
 
 Project: https://github.com/BlockchainCommons/Learning-Bitcoin-from-the-Command-Line
 
-Date: `$date`
+Date: `08/07/2021`
 
 ## Purpose
 
